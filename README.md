@@ -24,13 +24,13 @@ Simulate theater seating capacity with the COVID-19 pandemic distancing requirem
 The layout and blocked rows were sampled from a screen at my local theater. The seat and isle sizes
 were estimated based on my own experiences.
 
-The number of people in a group (seated without distancing) is assumed to have a log-normal distributed that
+The number of people in a group (seated without distancing) is assumed to have a log-normal distribution that
 peaks just below 2 and falls off slowly around 5.
 
 The ideal theater seat is assumed to be centered horizontally and the distance from the screen is assumed to be
 a random preference with a normal distrobution centered around the middle row.
 
-The logic for choosing the first seat is to pick the closest available seat to a randomly selected ideal seat.
+The logic for choosing the first seat in a reservation is to pick the closest available seat to a randomly selected ideal seat.
 
 The logic for choosing additional seats for a group favors the same row by squaring the Y distance twice
 when minimizing the euclidean distance to the first seat.
