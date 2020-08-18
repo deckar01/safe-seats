@@ -1,6 +1,6 @@
 # Safe Seats
 
-<img width="870" alt="Safe Seats" src="https://user-images.githubusercontent.com/3108007/90457503-5b1a9480-e0c1-11ea-930d-50d47c531f1c.png">
+<a alt="Safe Seats" href="https://user-images.githubusercontent.com/3108007/90459142-07f71080-e0c6-11ea-9efb-fff4f6d60fce.png"><img width="870" alt="Safe Seats" src="https://user-images.githubusercontent.com/3108007/90457503-5b1a9480-e0c1-11ea-930d-50d47c531f1c.png"></a>
 
 Simulate theater seating capacity with the COVID-19 pandemic distancing requirements.
 
